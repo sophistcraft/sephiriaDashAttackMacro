@@ -1,0 +1,8 @@
+S:\WorkBench\_cache\bepinex_dashmacro\SephiriaMod\src\obj\Debug\netstandard2.1\SephiriaMod.GeneratedMSBuildEditorConfig.editorconfig
+S:\WorkBench\_cache\bepinex_dashmacro\SephiriaMod\src\obj\Debug\netstandard2.1\SephiriaMod.csproj.CoreCompileInputs.cache
+S:\WorkBench\_cache\bepinex_dashmacro\SephiriaMod\src\bin\Debug\netstandard2.1\SephiriaMod.deps.json
+S:\WorkBench\_cache\bepinex_dashmacro\SephiriaMod\src\bin\Debug\netstandard2.1\SephiriaMod.dll
+S:\WorkBench\_cache\bepinex_dashmacro\SephiriaMod\src\bin\Debug\netstandard2.1\SephiriaMod.pdb
+S:\WorkBench\_cache\bepinex_dashmacro\SephiriaMod\src\obj\Debug\netstandard2.1\SephiriaMod.csproj.AssemblyReference.cache
+S:\WorkBench\_cache\bepinex_dashmacro\SephiriaMod\src\obj\Debug\netstandard2.1\SephiriaMod.dll
+S:\WorkBench\_cache\bepinex_dashmacro\SephiriaMod\src\obj\Debug\netstandard2.1\SephiriaMod.pdb
