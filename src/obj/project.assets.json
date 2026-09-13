@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\WorkBench\\_utility\\bepinex_dashmacro\\DashAttackMacro\\src\\DashAttackMacro.csproj",
+      "projectUniqueName": "S:\\WorkBench\\_utility\\bepinex_dashmacro\\sephiriaDashAttackMacro\\src\\DashAttackMacro.csproj",
       "projectName": "DashAttackMacro",
-      "projectPath": "S:\\WorkBench\\_utility\\bepinex_dashmacro\\DashAttackMacro\\src\\DashAttackMacro.csproj",
+      "projectPath": "S:\\WorkBench\\_utility\\bepinex_dashmacro\\sephiriaDashAttackMacro\\src\\DashAttackMacro.csproj",
       "packagesPath": "C:\\Users\\SophistTemp\\.nuget\\packages\\",
-      "outputPath": "S:\\WorkBench\\_utility\\bepinex_dashmacro\\DashAttackMacro\\src\\obj\\",
+      "outputPath": "S:\\WorkBench\\_utility\\bepinex_dashmacro\\sephiriaDashAttackMacro\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "S:\\WorkBench\\Visual Studio ETC\\NuGetPackages"

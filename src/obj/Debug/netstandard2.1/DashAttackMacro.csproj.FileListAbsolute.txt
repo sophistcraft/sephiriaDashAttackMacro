@@ -22,3 +22,12 @@ S:\WorkBench\_utility\bepinex_dashmacro\DashAttackMacro\src\obj\Debug\netstandar
 S:\WorkBench\_utility\bepinex_dashmacro\DashAttackMacro\src\obj\Debug\netstandard2.1\DashAttackMacro.csproj.CoreCompileInputs.cache
 S:\WorkBench\_utility\bepinex_dashmacro\DashAttackMacro\src\obj\Debug\netstandard2.1\DashAttackMacro.dll
 S:\WorkBench\_utility\bepinex_dashmacro\DashAttackMacro\src\obj\Debug\netstandard2.1\DashAttackMacro.pdb
+S:\WorkBench\_utility\bepinex_dashmacro\sephiriaDashAttackMacro\src\bin\Debug\netstandard2.1\DashAttackMacro.deps.json
+S:\WorkBench\_utility\bepinex_dashmacro\sephiriaDashAttackMacro\src\bin\Debug\netstandard2.1\DashAttackMacro.dll
+S:\WorkBench\_utility\bepinex_dashmacro\sephiriaDashAttackMacro\src\bin\Debug\netstandard2.1\DashAttackMacro.pdb
+S:\WorkBench\_utility\bepinex_dashmacro\sephiriaDashAttackMacro\src\obj\Debug\netstandard2.1\DashAttackMacro.csproj.AssemblyReference.cache
+S:\WorkBench\_utility\bepinex_dashmacro\sephiriaDashAttackMacro\src\obj\Debug\netstandard2.1\DashAttackMacro.GeneratedMSBuildEditorConfig.editorconfig
+S:\WorkBench\_utility\bepinex_dashmacro\sephiriaDashAttackMacro\src\obj\Debug\netstandard2.1\DashAttackMacro.csproj.CoreCompileInputs.cache
+S:\WorkBench\_utility\bepinex_dashmacro\sephiriaDashAttackMacro\src\obj\Debug\netstandard2.1\DashAttackMacro.sourcelink.json
+S:\WorkBench\_utility\bepinex_dashmacro\sephiriaDashAttackMacro\src\obj\Debug\netstandard2.1\DashAttackMacro.dll
+S:\WorkBench\_utility\bepinex_dashmacro\sephiriaDashAttackMacro\src\obj\Debug\netstandard2.1\DashAttackMacro.pdb
